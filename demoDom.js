@@ -48,3 +48,13 @@ console.log(elements);
     let input = document.createElement("input");
     input.setAttribute("type", "password");
     d.appendChild(input);
+
+//Les événements
+//change 
+//click 
+//copy
+//focus
+// keydown/keypress/keyup
+// mouseenter/mouseover
+//scroll
+
